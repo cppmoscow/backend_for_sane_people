@@ -1,6 +1,12 @@
 # backend_for_sane_people
 
-C++ Moscow №0: «‎бэкенд на плюсах для нормальных людей»‎
+C++ Moscow №0: «бэкенд на плюсах для нормальных людей»
+
+Докладчик: Данил Сидорук
+
+Видео: [YouTube](https://youtu.be/NLdvFr3tSuY?si=cWi2fROW8MkHecd0)
+
+Презентация: [Online](https://cppmoscow.com/backend_for_sane_people)
 
 В рамках доклада был совершен обзор трех самых популярных и функциональных плюсовых веб-фреймворков: [drogon](https://github.com/cppmoscow/drogon_sample), [oat++](https://github.com/cppmoscow/oat_sample) и [userver](https://github.com/cppmoscow/userver_sample).
 
