@@ -10,9 +10,9 @@ C++ Moscow №0: «‎бэкенд на плюсах для нормальных
 
 | Место | Фреймворк | Lines of code | % |
 | ----- | --------- | ------------- | - |
-| 1     | userver   | 162 LOC       | 100 |
-| 2     | Drogon    | 165 LOC       | 101 |
-| 3     | Oat++     | 310 LOC       | 191% |
+| 1     | userver   | 162           | 100 |
+| 2     | Drogon    | 165           | 101 |
+| 3     | Oat++     | 310           | 191 |
 
 ![image](https://github.com/cppmoscow/backend_for_sane_people/assets/47888628/e82ba3fd-53e0-40a1-879b-995749011c80)
 
@@ -25,8 +25,8 @@ C++ Moscow №0: «‎бэкенд на плюсах для нормальных
 
 | Место | Фреймворк | Requests per second | % |
 | ----- | --------- | ------------------- | - |
-| 1     | userver   | 39547 RPS           | 100% |
-| 2     | Drogon    | 35890 RPS           | 90%  |
-| 3     | Oat++     | 31512 RPS           | 79%  |
+| 1     | userver   | 39547               | 100 |
+| 2     | Drogon    | 35890               | 90  |
+| 3     | Oat++     | 31512               | 79  |
 
 ![image](https://github.com/cppmoscow/backend_for_sane_people/assets/47888628/574bc817-2160-485b-a089-ddfdedaf8587)
